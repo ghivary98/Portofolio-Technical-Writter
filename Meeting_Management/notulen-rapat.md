@@ -1,4 +1,4 @@
-# 📝 Notulen Rapat Proyek XYZ
+# 📝 Notulen Rapat Proyek SCU
 
 **Nomor** : 001/NOTULEN/PRO-XYZ/VIII/2025  
 **Tanggal Rapat** : 14 Agustus 2025  
