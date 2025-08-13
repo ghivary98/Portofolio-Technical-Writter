@@ -1,6 +1,6 @@
 # 📚 Portofolio Technical Writer
 
-Halo! Saya **[Nama Kamu]**, seorang Technical Writer pemula yang fokus membuat dokumentasi teknis yang jelas, ringkas, dan mudah dipahami.  
+Halo! Saya **[Muhammad Al Ghivari]**, seorang Technical Writer pemula yang fokus membuat dokumentasi teknis yang jelas, ringkas, dan mudah dipahami.  
 Portofolio ini berisi contoh hasil karya saya, mulai dari panduan pengguna, SOP, hingga dokumentasi proses.
 
 ---
